@@ -1,0 +1,140 @@
+[
+  {
+    "latitude": 40,
+    "longitude": -105,
+    "altitude": 1609,
+    "start": 1704110400000,
+    "omm": {
+      "NORAD_CAT_ID": 25544,
+      "OBJECT_NAME": "ISS (synthetic test orbit)",
+      "EPOCH": "2024-01-01T12:00:00.000000",
+      "MEAN_MOTION": 15.5,
+      "ECCENTRICITY": 0.0005,
+      "INCLINATION": 51.64,
+      "RA_OF_ASC_NODE": 120,
+      "ARG_OF_PERICENTER": 90,
+      "MEAN_ANOMALY": 0,
+      "BSTAR": 0.0003
+    },
+    "passes": [
+      {
+        "start": 1704115756000,
+        "end": 1704115924000,
+        "peak": 12.520128371225406
+      },
+      {
+        "start": 1704199374000,
+        "end": 1704199430000,
+        "peak": 13.162351944718646
+      }
+    ]
+  },
+  {
+    "latitude": -33.86,
+    "longitude": 151.2,
+    "altitude": 50,
+    "start": 1704110400000,
+    "omm": {
+      "NORAD_CAT_ID": 25544,
+      "OBJECT_NAME": "ISS (synthetic test orbit)",
+      "EPOCH": "2024-01-01T12:00:00.000000",
+      "MEAN_MOTION": 15.5,
+      "ECCENTRICITY": 0.0005,
+      "INCLINATION": 51.64,
+      "RA_OF_ASC_NODE": 120,
+      "ARG_OF_PERICENTER": 90,
+      "MEAN_ANOMALY": 0,
+      "BSTAR": 0.0003
+    },
+    "passes": [
+      {
+        "start": 1704197168000,
+        "end": 1704197260000,
+        "peak": 22.597012113740064
+      },
+      {
+        "start": 1704280680000,
+        "end": 1704280852000,
+        "peak": 23.68468294787475
+      }
+    ]
+  },
+  {
+    "latitude": 51.5,
+    "longitude": 0,
+    "altitude": 0,
+    "start": 1704110400000,
+    "omm": {
+      "NORAD_CAT_ID": 25544,
+      "OBJECT_NAME": "ISS (synthetic test orbit)",
+      "EPOCH": "2024-01-01T12:00:00.000000",
+      "MEAN_MOTION": 15.5,
+      "ECCENTRICITY": 0.0005,
+      "INCLINATION": 51.64,
+      "RA_OF_ASC_NODE": 120,
+      "ARG_OF_PERICENTER": 90,
+      "MEAN_ANOMALY": 0,
+      "BSTAR": 0.0003
+    },
+    "passes": [
+      {
+        "start": 1704171502000,
+        "end": 1704171576000,
+        "peak": 19.959478351799795
+      },
+      {
+        "start": 1704177076000,
+        "end": 1704177384000,
+        "peak": 87.87712203400433
+      },
+      {
+        "start": 1704260692000,
+        "end": 1704260878000,
+        "peak": 74.46493032649724
+      },
+      {
+        "start": 1704266284000,
+        "end": 1704266684000,
+        "peak": 85.31328227193902
+      }
+    ]
+  },
+  {
+    "latitude": 0,
+    "longitude": -78,
+    "altitude": 100,
+    "start": 1704110400000,
+    "omm": {
+      "NORAD_CAT_ID": 25544,
+      "OBJECT_NAME": "ISS (synthetic test orbit)",
+      "EPOCH": "2024-01-01T12:00:00.000000",
+      "MEAN_MOTION": 15.5,
+      "ECCENTRICITY": 0.0005,
+      "INCLINATION": 51.64,
+      "RA_OF_ASC_NODE": 120,
+      "ARG_OF_PERICENTER": 90,
+      "MEAN_ANOMALY": 0,
+      "BSTAR": 0.0003
+    },
+    "passes": []
+  },
+  {
+    "latitude": 69,
+    "longitude": 18,
+    "altitude": 10,
+    "start": 1704110400000,
+    "omm": {
+      "NORAD_CAT_ID": 25544,
+      "OBJECT_NAME": "ISS (synthetic test orbit)",
+      "EPOCH": "2024-01-01T12:00:00.000000",
+      "MEAN_MOTION": 15.5,
+      "ECCENTRICITY": 0.0005,
+      "INCLINATION": 51.64,
+      "RA_OF_ASC_NODE": 120,
+      "ARG_OF_PERICENTER": 90,
+      "MEAN_ANOMALY": 0,
+      "BSTAR": 0.0003
+    },
+    "passes": []
+  }
+]
